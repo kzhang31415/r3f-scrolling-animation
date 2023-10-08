@@ -1,8 +1,8 @@
-# React + Vite
+# React + Vite + Three
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To setup this project on your local computer, type the following lines into the terminal:
+> cd r3f-scrolling-animation
+> yarn add dependencies
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then to run the project, type the following line into the terminal:
+> yarn run dev
